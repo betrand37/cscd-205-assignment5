@@ -1,0 +1,7 @@
+Id		Name	Gender	Age	Score	Grade
+10607777	Sasu	male	19	75	B
+00223349	Emma	male	23	89	A
+22994410	joe	male	20	65	C
+10990779	Ella	Female	22	80	A
+55667788	Alick	male	24	85	A
+	95	A
